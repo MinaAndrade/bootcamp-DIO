@@ -10,10 +10,10 @@ Armazenará tudo o que for aprendido sobre o Git e GitHub do curso de Versioname
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
 
-### 💻 Resumos das Aulas
+## 💻 Resumos das Aulas
 
-| Aulas | Resumos |
-|-------|---------|
+| Aulas | Resumos | Assunto |
+|-------|---------|---------|
 | Gravando Alterações no Repositório Local | [Resumos]() |
 
 ## 🔍 Referências
